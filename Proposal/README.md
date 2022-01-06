@@ -12,7 +12,7 @@ is labor-intensive, growing, and
 facing high attrition rates.
 
 # Dataset Description:
-This data has **962 rows and 2 columns.**, and it dataset can be found at [Kaggle](https://www.kaggle.com/gauravduttakiit/resume-dataset/code?datasetId=1177531&sortBy=voteCount).
+This data has **962 rows and 2 columns.**, and the dataset can be found at [Kaggle](https://www.kaggle.com/gauravduttakiit/resume-dataset/code?datasetId=1177531&sortBy=voteCount).
 
 
 
